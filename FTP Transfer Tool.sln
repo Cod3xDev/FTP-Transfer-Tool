@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FTP Transfer Tool", "FTP Transfer Tool.vbproj", "{A9202A23-140B-4499-9CA1-A94FDA9431D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9202A23-140B-4499-9CA1-A94FDA9431D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9202A23-140B-4499-9CA1-A94FDA9431D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9202A23-140B-4499-9CA1-A94FDA9431D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9202A23-140B-4499-9CA1-A94FDA9431D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F8DC2C-0ABA-4026-BE76-2B4AF1FD2CCE}
+	EndGlobalSection
+EndGlobal
